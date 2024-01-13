@@ -1,0 +1,11 @@
+Data Description :
+Influncer_Username: name of the Influencer
+Posts-per_Day: Avg number of posts per day
+Posts_per_Week: Avg number of posts per Week
+Posts-per_Month: Avg number of posts per Month
+Total_posts: total number of posts for this account 
+Engagement_Rate: Avg number of users Engaging with post / Total number of followers 
+Total_Followers: Total number of followers for this account 
+Avg_User_activity: percentage of followers who interact with posts
+Influncer_bio: The bio written by the influencer wich will be useful for categorizing them in the future 
+
